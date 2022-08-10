@@ -2,13 +2,13 @@
 
 GriefWaffen Public for griefers.
 
-##REQUIREMENTS:##
+## REQUIREMENTS: ##
 You must have Fabric 1.19.2 installed.
 
-##INSTALLATION:##
+## INSTALLATION: ##
 Drag and drop the `GriefWaffenClient.jar` into your `.minecraft/mods` folder.
 
-##QUESTIONS?##
+## QUESTIONS? ##
 Contact xp#7083 or LokiieZ#0974
 
-###Source code is available using the link below:###
+### Source code is available using the link below: ###
